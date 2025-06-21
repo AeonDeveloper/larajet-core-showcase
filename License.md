@@ -27,9 +27,9 @@ This repository contains selected example files and architectural patterns from 
 
 For commercial inquiries, licensing, or partnership discussions regarding **LaraJet**, please contact:
 
-**[Your Name]**  
-[you@example.com]  
-[LinkedIn or Website URL]
+Robin Leah OShell
+leah@aeondg.com 
+larajet.com
 
 ---
 
