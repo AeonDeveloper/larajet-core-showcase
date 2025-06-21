@@ -1,6 +1,6 @@
 # LaraJet Core License (Demo Version)
 
-Copyright © [Your Name or Company] [2025]
+Copyright © Aeon Development Group 2019-Present
 
 This repository contains selected example files and architectural patterns from the proprietary **LaraJet Core** platform. It is intended for demonstration and evaluation purposes only.
 
