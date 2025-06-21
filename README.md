@@ -2,6 +2,8 @@
 This is a selective architectural glimpse into LaraJet, a Laravel-powered access control and user management system built for multi-tenant platforms.
 
 
+## LaraJet: A Laravel-native Role + Permissions Core with Anti-Spam Fortification
+
 # 🛫 LaraJet Core
 
 **LaraJet** is a Laravel-native access control and user onboarding core, designed to power membership platforms, admin panels, or multi-tenant SaaS systems with clean, testable architecture.
