@@ -1,0 +1,12 @@
+App\
+ ├─ Actions\
+ │   └─ Fortify\CreateNewUser.php
+ ├─ Models\
+ │   └─ Security\{Role, Permission}
+ ├─ Traits\
+ │   └─ SpamDetectsRequests.php
+ ├─ Services\
+ │   └─ Security\SpamDetectionService.php
+ ├─ Console\
+ │   └─ Commands\PermissionsReport.php
+ └─ Policies\ (optional)
