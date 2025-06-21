@@ -1,3 +1,5 @@
+// Part of LaraJet Core – Demo Only – Not Licensed for Production Use
+
 // SAMPLE GATE DEFINITION
 
 Gate::define('manage-visitorinfo', function ($user) {
