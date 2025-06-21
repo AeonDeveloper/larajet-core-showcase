@@ -1,5 +1,8 @@
-
 <?php
+
+// Part of LaraJet Core – Demo Only – Not Licensed for Production Use
+
+
 namespace App\Services\Security;
 use Symfony\Component\HttpKernel\Exception\HttpException;
 
