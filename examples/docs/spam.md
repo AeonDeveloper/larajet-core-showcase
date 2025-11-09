@@ -2,7 +2,7 @@
 
 This service protects user registration by rejecting form submissions that:
 
-- Contain filled honeypot fields (`form_token`)
+- Contain filled honeypot fields (`example_decoy`)
 - Are submitted too quickly (< 3 seconds)
 - Contain links in the name field
 
